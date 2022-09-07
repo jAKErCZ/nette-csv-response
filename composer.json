@@ -3,7 +3,7 @@
     "type": "library",
     "description": "Nette CSV response",
     "homepage": "https://github.com/jAKErCZ/nette-csv-response",
-    "license": "New BSD",
+    "license": "MIT",
     "authors": [
         {
             "name": "Vladislav Hejda",
