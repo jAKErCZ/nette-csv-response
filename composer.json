@@ -1,8 +1,8 @@
 {
-    "name": "ohweb/nette-csv-response",
+    "name": "jakercz/nette-csv-response",
     "type": "library",
     "description": "Nette CSV response",
-    "homepage": "https://github.com/ohweb/nette-csv-response",
+    "homepage": "https://github.com/jAKErCZ/nette-csv-response",
     "license": "New BSD",
     "authors": [
         {
@@ -13,6 +13,11 @@
         {
             "name": "Ondra Hlaváč",
             "email": "ondra@hlavac.cz",
+            "role": "Developer"
+        },
+        {
+            "name": "Dominik Korčák",
+            "email": "korcak@infina.cz",
             "role": "Developer"
         }
     ],
